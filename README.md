@@ -49,7 +49,7 @@ REST API testing using Postman.
 - 5 issues identified
 - Incorrect response codes and missing server-side validation found
 
-*Project is being prepared.*
+[View project →](./02-api-testing-postman)
 
 ---
 
@@ -69,7 +69,7 @@ Validation of application data using SQL.
 - 10+ SQL queries written
 - 3 discrepancies identified between API responses and database records
 
-*Project is being prepared.*
+[View project →](./03-sql-data-validation)
 
 ---
 
